@@ -12,7 +12,7 @@ https://<domain>/api/recipes/turkey
 ```
 - Weight of the turkey is passed as a querystring. Example:
 ```
-https://<domain>/api/recipes/turkeyweight=5
+https://<domain>/api/recipes/turkey?weight=5
 ``` 
 - Output from the function is a JSON document. Structure of JSON is as below:
 ```
