@@ -100,3 +100,8 @@ http://localhost:7071/api/recipes/turkey
 ```
 http://localhost:7071/api/recipes/turkey?weight=5
 ```
+
+# Live Version of API
+The Perfect Holiday Turkey recipe API has been deployed to Azure Function App - Consumption plan. The live URL for the api is:
+
+[http://sos-ch1-tpht.azurewebsites.net/api/recipes/turkey?weight=5](http://sos-ch1-tpht.azurewebsites.net/api/recipes/turkey?weight=5)
