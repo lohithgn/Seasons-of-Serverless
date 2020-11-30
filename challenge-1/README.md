@@ -2,6 +2,12 @@
 
 You can read about the challenge [here](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-23-2020.md).
 
+
+# CI/CD Status
+
+![Build status](https://dev.azure.com/kashyapas/Seasons-of-Serverless/_apis/build/status/Challenge-1-CI) 
+![Deploytment Status](https://vsrm.dev.azure.com/kashyapas/_apis/public/Release/badge/521427f8-9e18-4676-9d3c-2f335d4dffa5/1/1)
+
 # Solution
 
 - Azure Function App targeting .NET Core 3.1 and Azure Functions V3 runtime
